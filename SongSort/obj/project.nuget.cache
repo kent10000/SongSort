@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7Hm+82r1a2FVJTKRM+ODXZbcjxQvHOy0KSbPPrQa5fmSf0jm82GEnsF3BjYYaB34BIHCN5v+b4fp6IHcpl2Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kent\\RiderProjects\\SongSort\\SongSort\\SongSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kent\\.nuget\\packages\\id3\\0.6.0\\id3.0.6.0.nupkg.sha512",
+    "C:\\Users\\kent\\.nuget\\packages\\jetbrains.annotations\\2018.3.0\\jetbrains.annotations.2018.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
